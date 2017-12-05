@@ -23,7 +23,7 @@ Demo with Arduino UNO
 Now, if without anyproblem, the OLED will run.
 
 ## Issue/Bug report template
-Before reporting an issue, make sure you've searched for similar one that was already created. [Click here](https://github.com/Heltec-Aaron-Lee/heltec0.96OLED/issues).
+Before reporting an issue, make sure you've searched for similar one that was already created. [Click here](https://github.com/Heltec-Aaron-Lee/heltec1.3OLED/issues).
 
 
 # Summary of common problems
